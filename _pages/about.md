@@ -7,7 +7,7 @@ permalink: /about/
 <div class="row">
     <div>
 
-      <img src="/images/bsnyder_LThumb.jpg" alt="Brent Snyder">
+      <img src="images/bsnyder_LThumb.jpg" alt="Brent Snyder">
       <h2> Hey! I'm Brent.</h2>
       <p> I started this site because I am interested in teaching and sharing content that helps you become a better data scientist. 
       </p> 
