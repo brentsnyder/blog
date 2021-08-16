@@ -31,7 +31,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hey! I&#39;m Brent. . I started this site because I am interested in teaching and sharing content that helps you become a better data scientist. . I have a day job as a Sr. Manager, Business Analytics at Walmart where I solve merchant&#39;s needs with insights and analytics. I&#39;ve been in the analytics game a while and received a MS in Analytics from Georgia Tech and a BS Economics from the University of Arkansas. . Python is my go-to programming language but don&#39;t be surprised if you see me using the Tidyverse in #rstats or visualizations in PowerBI or Tableau. Visit my social media channels and let me know what I can do to help you on your journey. .",
           "url": "https://brentsnyder.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
